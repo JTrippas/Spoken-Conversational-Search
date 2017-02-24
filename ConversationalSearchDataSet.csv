@@ -1,0 +1,186 @@
+Start.time,Stop.time,Query,Query.complexity,Role,Action,Transcript,Notes,Query.counter,File.name
+00:02.7,00:11.6,Where does cinnamon come from?,remember,A_User,A:Initial information request,In which countries... in which european countries... do they grow cinnamon,,1,2 - 1 June - 9.30am - Synchronized Clip.txt
+00:40.9,00:51.9,Where does cinnamon come from?,remember,B_Receiver,B:SERP without modification,There is a bunch or results and the first one is Wikipedia uhm... which just talks about cinnamon but the next one talks about the top 5 uhm cinnamon producing countries,"Reads titles from first 2 search results, no modification",2,2 - 1 June - 9.30am - Synchronized Clip.txt
+06:34.3,06:47.6,Airport Security,analyze,A_User,A:Initial information request,Can you type in... uhm...effective effectiveness of new security measures at airports,,1,2 - 1 June - 9.30am - Synchronized Clip.txt
+06:58.0,07:02.8,Airport Security,analyze,B_Receiver,B:Query refinement offer,Australia or at the airport,,2,2 - 1 June - 9.30am - Synchronized Clip.txt
+07:02.9,07:08.2,Airport Security,analyze,A_User,A:Intent clarification,put uhm... put international airports,,3,2 - 1 June - 9.30am - Synchronized Clip.txt
+17:24.0,17:36.1,Outsource job India,understand,A_User,A:Initial information request,What US jobs have been outsourced to India,,1,2 - 1 June - 9.30am - Synchronized Clip.txt
+17:50.2,17:52.7,Outsource job India,understand,B_Receiver,B:Query refinement offer,Can I put in united states,,2,2 - 1 June - 9.30am - Synchronized Clip.txt
+17:52.7,17:53.2,Outsource job India,understand,A_User,A:Confirms,yeah,,3,2 - 1 June - 9.30am - Synchronized Clip.txt
+00:14.6,01:18.6,"recycle, automobile tires",understand,A_User,A:Initial information request,Uses for old car then the query or... passenger vehicle tyres... T Y R E S or... in caps tires... T I R E S... and I wanna uhm... do a date range so the data is from a recent 12 months... so uses for old car caps or passenger vehicle or tyres T Y R E S caps or tires T I R E S and data in the last 12 months that's the query,,1,3 - 9 June - 9.30am - Synchronized Clip.txt
+01:19.2,02:27.4,"recycle, automobile tires",understand,B_Receiver,B:SERP without modification,So far from the last 12 months I... first results is second hand tyres in Sydney uhm‰Û_ from a wreckers the second result is compare tyres from drive.com.au uhm... the third result is uhm... an other wreckers in Brisbane used tyres in Frankston is the fourth result wheel and rim profiles of passenger cars tyre size calculator uhm... then there is the car bible uhm wheel and tyre bible which looks like it is everything you need to know about wheels and tyres from cars... the next one is beaurepaires... so an other tyres sales place... uhm one used car pick the tyres uhm... what damage does a car suffer if not refually used on a forum and then the last result is Bridgestone pricing,"Reads all search results, mainly titles",2,3 - 9 June - 9.30am - Synchronized Clip.txt
+10:16.5,11:02.5,per capita alcohol consumption,analyze,A_User,A:Initial information request,Please compare first word it might put compare average international uhm... and I like in inverted commas the words alcohol consumption... closing inverted commas and then in opening inverted commas per capita that is P E R capita C A P I T A closing inverted commas and that's... if you could return the searches for that please...,,1,3 - 9 June - 9.30am - Synchronized Clip.txt
+11:07.4,11:09.6,per capita alcohol consumption,analyze,B_Receiver,B:Asks to repeat,sorry what... can you repeat that sentence,,2,3 - 9 June - 9.30am - Synchronized Clip.txt
+11:10.3,11:29.9,per capita alcohol consumption,analyze,A_User,A:Query repeat,compare average open inverted commas oh sorry compare average international open inverted commas alcohol consumption close inverted commas open inverted commas per capita close inverted commas,,3,3 - 9 June - 9.30am - Synchronized Clip.txt
+21:14.0,21:47.5,What language do they speak in New Caledonia?,remember,A_User,A:Initial information request,please search for the following phrase... what language language in inverted commas is spoken in open inverted commas new Caledonia close inverted commas... can you please check the caledonia CALEDONIA,,1,3 - 9 June - 9.30am - Synchronized Clip.txt
+21:59.7,22:02.1,What language do they speak in New Caledonia?,remember,B_Receiver,B:SERP without modification,uhm... it has come up straight away with a result uhm... in google uhm... new caledonia official language French,Search stopped by user,2,3 - 9 June - 9.30am - Synchronized Clip.txt
+00:01.4,00:10.8,Marine Vegetation,understand,A_User,A:Initial information request,maybe start of with type in marine vegetation and read up on what it kind of means,,1,4 - 9 June - 2.30pm - Synchronized Clip.txt
+00:20.2,00:35.2,Marine Vegetation,understand,B_Receiver,B:SERP with modification,ok I have an article about marine vegetation... plants that inhabit the seas and oceans... they include algae grasses mangrove trees and shrubs,,2,4 - 9 June - 2.30pm - Synchronized Clip.txt
+10:16.7,10:21.8,Where does cinnamon come from?,remember,A_User,A:Initial information request,maybe start of with uhm... type in... the origins of cinnamon,,1,4 - 9 June - 2.30pm - Synchronized Clip.txt
+10:33.0,10:41.7,Where does cinnamon come from?,remember,B_Receiver,B:SERP without modification,uhm I have around 1518 Portuguese traders discovered cinnamon at Ceylon present-day Sri Lanka,SERP card,2,4 - 9 June - 2.30pm - Synchronized Clip.txt
+20:18.5,21:00.7,per capita alcohol consumption,analyze,A_User,A:Initial information request,ok so... uhm... in general I sort of want to try to find out the average consumption of alcohol uhm by... by the country state... for local level... so maybe just start of with type in uhm alcohol consumption by country... tell me if anything related to statistics uhm... about alcohol consumption uhm... between countries,,1,4 - 9 June - 2.30pm - Synchronized Clip.txt
+21:03.0,21:08.8,per capita alcohol consumption,analyze,B_Receiver,B:SERP without modification,so I have a document about global consumption of alcohol by the world bank,,2,4 - 9 June - 2.30pm - Synchronized Clip.txt
+00:22.6,00:24.6,Turkey Iraq Water,analyze,A_User,A:Initial information request,turkish river control,,1,5 - 10 June - 9.30am - Synchronized Clip.txt
+00:30.7,00:31.7,Turkey Iraq Water,analyze,B_Receiver,B:Confirms,yeah,,2,5 - 10 June - 9.30am - Synchronized Clip.txt
+00:33.5,00:34.6,Turkey Iraq Water,analyze,A_User,A:SERP information request,What results came up?,,3,5 - 10 June - 9.30am - Synchronized Clip.txt
+01:51.9,01:54.0,"What river runs through Rome, Italy?",remember,A_User,A:Initial information request,Rome water supply,,1,5 - 10 June - 9.30am - Synchronized Clip.txt
+02:05.0,02:16.0,"What river runs through Rome, Italy?",remember,B_Receiver,B:SERP with modification,uhm... yeah uhm... it pops up... it talks about the aqueduct and stuff and... yeah... pretty much more based on it's history,,2,5 - 10 June - 9.30am - Synchronized Clip.txt
+04:57.5,05:01.5,Marine Vegetation,understand,A_User,A:Initial information request,health benefits of marine vegetation,,1,5 - 10 June - 9.30am - Synchronized Clip.txt
+05:11.1,05:12.1,Marine Vegetation,understand,B_Receiver,B:Confirms,uhm... yah,,2,5 - 10 June - 9.30am - Synchronized Clip.txt
+05:12.5,05:15.4,Marine Vegetation,understand,A_User,A:SERP information request,what kind of results come up,,3,5 - 10 June - 9.30am - Synchronized Clip.txt
+00:07.1,00:13.5,Outsource job India,understand,A_User,A:Initial information request,Search for US unemployment plus outsourcing,,1,6 - 10 June - 2.30pm - Synchronized Clip.txt
+01:00.8,01:13.1,Outsource job India,understand,B_Receiver,B:Query refinement offer,so do you like to ask about the US unemployment rate or... range or number or,,2,6 - 10 June - 2.30pm - Synchronized Clip.txt
+01:14.5,01:30.3,Outsource job India,understand,A_User,A:Intent clarification,uhm... well... uhm... not the rate or anything like that uhm... it's... just the concept of unemployment... unemployed people,,3,6 - 10 June - 2.30pm - Synchronized Clip.txt
+10:16.2,10:22.2,What language do they speak in New Caledonia?,remember,A_User,A:Initial information request,Can you search for language plus new caledonia,,1,6 - 10 June - 2.30pm - Synchronized Clip.txt
+10:22.8,10:23.5,What language do they speak in New Caledonia?,remember,B_Receiver,B:Asks to repeat,New,,2,6 - 10 June - 2.30pm - Synchronized Clip.txt
+10:23.9,10:26.3,What language do they speak in New Caledonia?,remember,A_User,A:Query embellishment,New caledonia the country,,3,6 - 10 June - 2.30pm - Synchronized Clip.txt
+12:20.5,12:32.5,Airport Security,analyze,A_User,A:Initial information request,can you search for... airport security plus success,,1,6 - 10 June - 2.30pm - Synchronized Clip.txt
+12:36.6,12:37.7,Airport Security,analyze,B_Receiver,B:Query refinement offer,In a certain place,,2,6 - 10 June - 2.30pm - Synchronized Clip.txt
+12:39.2,12:40.6,Airport Security,analyze,A_User,A:Intent clarification,uhm... no... in general,,3,6 - 10 June - 2.30pm - Synchronized Clip.txt
+00:07.1,00:15.2,Airport Security,analyze,A_User,A:Initial information request,Effectiveness of security measures at airports,,1,7 - 14 June - 11.30am - Synchronized Clip.txt
+00:24.4,00:27.0,Airport Security,analyze,B_Receiver,B:Asks to repeat,so it is effective measures,,2,7 - 14 June - 11.30am - Synchronized Clip.txt
+00:27.0,00:30.0,Airport Security,analyze,A_User,A:Query embellishment,effectiveness... new security measures at airports,,3,7 - 14 June - 11.30am - Synchronized Clip.txt
+10:26.2,10:30.7,Marine Vegetation,understand,A_User,A:Initial information request,Health benefits of marine vegetation,,1,7 - 14 June - 11.30am - Synchronized Clip.txt
+10:49.3,11:18.8,Marine Vegetation,understand,B_Receiver,B:SERP without modification,Searching health benefits of marine vegetation... so the first article that comes up reap the health benefits of tiny marine plants by food trends... second article sea vegetables the world's healthiest foods... third article the benefits of marine phytoplankton by wellness mama,reads out three titles,2,7 - 14 June - 11.30am - Synchronized Clip.txt
+19:08.9,19:11.3,"What river runs through Rome, Italy?",remember,A_User,A:Initial information request,Rome's major river,,1,7 - 14 June - 11.30am - Synchronized Clip.txt
+19:27.7,19:29.1,"What river runs through Rome, Italy?",remember,B_Receiver,B:SERP without modification,So... it comes up with the Tiber,Search stopped by user,2,7 - 14 June - 11.30am - Synchronized Clip.txt
+00:05.9,00:11.9,per capita alcohol consumption,analyze,A_User,A:Initial information request,What's the average alcohol consumption of an Australian,,1,8 - 14 June - 3pm - Synchronized Clip.txt
+00:16.8,00:48.0,per capita alcohol consumption,analyze,B_Receiver,B:SERP with modification + Suggestion,okay... uhm drinking habits of australians uhm apparent consumption of alcohol Australia this is from the Australian bureau of statistics uhm... alcohol consumption from the bureau of statistics... is it just australians or...,reads out first 3 SERP titles,2,8 - 14 June - 3pm - Synchronized Clip.txt
+10:19.2,10:24.2,Where does cinnamon come from?,remember,A_User,A:Initial information request,Which country does cinnamon which country grows the most cinnamon,,1,8 - 14 June - 3pm - Synchronized Clip.txt
+10:32.6,10:33.9,Where does cinnamon come from?,remember,B_Receiver,B:SERP without modification,Sri lanka,SERP card,2,8 - 14 June - 3pm - Synchronized Clip.txt
+16:54.6,17:02.7,Outsource job India,understand,A_User,A:Initial information request,What jobs that used to be in the US... are no longer have been outsourced to india,,1,8 - 14 June - 3pm - Synchronized Clip.txt
+17:05.9,17:08.8,Outsource job India,understand,B_Receiver,B:Query refinement offer,which jobs from the united states have been outsourced to india,,2,8 - 14 June - 3pm - Synchronized Clip.txt
+17:08.9,17:09.1,Outsource job India,understand,A_User,A:Confirms,yea,,3,8 - 14 June - 3pm - Synchronized Clip.txt
+00:02.3,00:07.7,What language do they speak in New Caledonia?,remember,A_User,A:Initial information request,can you please search new Caledonia and also the word language,,1,9 - 15 June - 9.30am - Synchronized Clip.txt
+00:15.0,00:18.2,What language do they speak in New Caledonia?,remember,B_Receiver,B:Asks to repeat,can you please uhm repeat the question,,2,9 - 15 June - 9.30am - Synchronized Clip.txt
+00:18.3,00:21.7,What language do they speak in New Caledonia?,remember,A_User,A:Query repeat,uhm... new caledonia... would you like me to spell it,,3,9 - 15 June - 9.30am - Synchronized Clip.txt
+01:48.8,02:03.6,Turkey Iraq Water,analyze,A_User,A:Initial information request,Can you please search... Iraq water resources... and then word turkey as well,,1,9 - 15 June - 9.30am - Synchronized Clip.txt
+02:25.2,02:28.1,Turkey Iraq Water,analyze,B_Receiver,B:Query refinement offer,Is it about Iraq's water crisis,,2,9 - 15 June - 9.30am - Synchronized Clip.txt
+02:28.4,03:17.6,Turkey Iraq Water,analyze,A_User,A:Intent clarification,probably uhm... I am looking for information about how uhm... how like dams in turkey might be effected water supplies in Iraq... it might also work to search for rivers cross over the border between turkey and Iraq because that might uhm... bring up more specific information related rivers,,3,9 - 15 June - 9.30am - Synchronized Clip.txt
+05:28.4,05:48.2,"recycle, automobile tires",understand,A_User,A:Initial information request,Can you please search car tyre recycling... and in the results I am looking for examples of what uhm... recycled car tyres are used for,User tells the receiver what exactly to look for in the SERP,1,9 - 15 June - 9.30am - Synchronized Clip.txt
+06:04.9,06:20.2,"recycle, automobile tires",understand,B_Receiver,B:SERP with modification,they use it for chair furniture uhm... and then for uhm... as a pot,Retriever went to the images section in google to see what the uses are of tyres,2,9 - 15 June - 9.30am - Synchronized Clip.txt
+00:05.2,00:07.8,"What river runs through Rome, Italy?",remember,A_User,A:Initial information request,What is the river in rome called,,1,10 - 15 June - 1pm - Synchronized Clip.txt
+00:23.9,00:36.0,"What river runs through Rome, Italy?",remember,B_Receiver,B:SERP with modification,there is a bunch of hits that tiber tiber T I B E R and yah in Rome,,2,10 - 15 June - 1pm - Synchronized Clip.txt
+04:36.6,04:40.3,"recycle, automobile tires",understand,A_User,A:Initial information request,where do tyres go when they are being recycled,,1,10 - 15 June - 1pm - Synchronized Clip.txt
+05:28.0,05:33.4,"recycle, automobile tires",understand,B_Receiver,B:SERP with modification,well uhm... the first result is just a company,,2,10 - 15 June - 1pm - Synchronized Clip.txt
+12:29.2,13:03.4,Turkey Iraq Water,analyze,A_User,A:Initial information request,have turkish river control projects affected Iraqi water resources... so we are looking for if dams or irrigation schemes have affected uhm... any of the Iraqi people,,1,10 - 15 June - 1pm - Synchronized Clip.txt
+13:06.4,15:34.6,Turkey Iraq Water,analyze,B_Receiver,B:Scanning document theme,"the first result that came up was a PDF by uhm... I think it is the turkish government... gov.tr uhm... it says that there are water issues between turkey, Syria and Iraq... I am just looking... the full pdf wasn't there but there is uhm... a non-profit website in here that... says uhm... yes, so it's called turkey's rivers dispute... I am just looking at it here... so... so turkey doesn't have new water resources so they use almost all of their water... so they've put a lot of money into it, they made quite a lot of dams... so just reading here and see what it says about Iraq was it?",,2,10 - 15 June - 1pm - Synchronized Clip.txt
+00:04.2,00:05.9,Where does cinnamon come from?,remember,A_User,A:Initial information request,where does cinnamon come from,,1,11 - 16 June - 10.30am - Synchronized Clip.txt
+00:07.5,00:08.6,Where does cinnamon come from?,remember,B_Receiver,B:Asks to repeat,sorry say that again,,2,11 - 16 June - 10.30am - Synchronized Clip.txt
+00:08.8,00:10.5,Where does cinnamon come from?,remember,A_User,A:Query repeat,Where does cinnamon come from,,3,11 - 16 June - 10.30am - Synchronized Clip.txt
+01:05.5,01:08.6,Airport Security,analyze,A_User,A:Initial information request,new security measures at airports,,1,11 - 16 June - 10.30am - Synchronized Clip.txt
+01:09.3,01:13.6,Airport Security,analyze,B_Receiver,B:Query refinement offer,so new security measures at airport... which airport,,2,11 - 16 June - 10.30am - Synchronized Clip.txt
+01:13.8,01:15.8,Airport Security,analyze,A_User,A:Intent clarification,uhm... just airports in general,,3,11 - 16 June - 10.30am - Synchronized Clip.txt
+06:17.8,06:21.1,Outsource job India,understand,A_User,A:Initial information request,US jobs outsourced to india,,1,11 - 16 June - 10.30am - Synchronized Clip.txt
+06:23.5,06:25.1,Outsource job India,understand,B_Receiver,B:Asks to repeat,Can you repeat that please,,2,11 - 16 June - 10.30am - Synchronized Clip.txt
+06:25.1,06:30.3,Outsource job India,understand,A_User,A:Query embellishment,US jobs that have been outsourced to india,,3,11 - 16 June - 10.30am - Synchronized Clip.txt
+00:05.2,00:10.8,"recycle, automobile tires",understand,A_User,A:Initial information request,can you just type in tyre uhm... car tyre recycling,,1,12 - 16 June - 3pm - Synchronized Clip.txt
+00:18.0,00:23.1,"recycle, automobile tires",understand,B_Receiver,B:Query refinement offer,so are you looking for uhm... the people who recycle tyres,,2,12 - 16 June - 3pm - Synchronized Clip.txt
+00:23.2,00:27.4,"recycle, automobile tires",understand,A_User,A:Intent clarification,uhm... I just want to see what the tyres...,,3,12 - 16 June - 3pm - Synchronized Clip.txt
+06:08.1,06:20.8,per capita alcohol consumption,analyze,A_User,A:Initial information request,OK so I need you to look up uhm... Australian alcohol consumption per capita,,1,12 - 16 June - 3pm - Synchronized Clip.txt
+06:22.2,06:22.9,per capita alcohol consumption,analyze,B_Receiver,B:Confirms,yeah,,2,12 - 16 June - 3pm - Synchronized Clip.txt
+06:24.9,06:27.8,per capita alcohol consumption,analyze,A_User,A:SERP information request,so what's the first result that you get... do you get a...,,3,12 - 16 June - 3pm - Synchronized Clip.txt
+13:16.5,13:20.4,What language do they speak in New Caledonia?,remember,A_User,A:Initial information request,Can you type in new caledonia,,1,12 - 16 June - 3pm - Synchronized Clip.txt
+13:21.0,13:21.6,What language do they speak in New Caledonia?,remember,B_Receiver,B:Asks to repeat,New,,2,12 - 16 June - 3pm - Synchronized Clip.txt
+13:21.6,13:30.3,What language do they speak in New Caledonia?,remember,A_User,A:Query embellishment,new caledonia C A L E D O N I A uhm... language,,3,12 - 16 June - 3pm - Synchronized Clip.txt
+00:19.1,00:20.8,Marine Vegetation,understand,A_User,A:Initial information request,algae seaweed health,,1,13 - 17 June - 9.30am - Synchronized Clip.txt
+00:21.5,00:22.2,Marine Vegetation,understand,B_Receiver,B:Asks to repeat,pardon,,2,13 - 17 June - 9.30am - Synchronized Clip.txt
+00:22.7,00:25.2,Marine Vegetation,understand,A_User,A:Query repeat,algae seaweed health,,3,13 - 17 June - 9.30am - Synchronized Clip.txt
+10:25.7,10:53.3,Where does cinnamon come from?,remember,A_User,A:Initial information request,so the count... part in uhm... a biscuits that you are get from Europe... uhm... it contains cinnamon... and... I want to know where the cinnamon is coming from... are there... is this... uhm... is this coming from Europe uhm... so how to uhm... search for uhm... cinnamon Europe biscuits,,1,13 - 17 June - 9.30am - Synchronized Clip.txt
+10:53.4,10:55.1,Where does cinnamon come from?,remember,B_Receiver,B:Asks to repeat,cinnamon what sorry,,2,13 - 17 June - 9.30am - Synchronized Clip.txt
+10:55.2,10:55.7,Where does cinnamon come from?,remember,A_User,A:Query repeat,Europe,,3,13 - 17 June - 9.30am - Synchronized Clip.txt
+19:59.8,20:07.0,per capita alcohol consumption,analyze,A_User,A:Initial information request,can you start with alcohol consumption uhm... in different kind countries,,1,13 - 17 June - 9.30am - Synchronized Clip.txt
+20:11.9,20:19.1,per capita alcohol consumption,analyze,B_Receiver,B:SERP with modification + Suggestion,I have scholar articles as well as alcohol consumption per capita... would you like to see more of that,,2,13 - 17 June - 9.30am - Synchronized Clip.txt
+00:12.6,00:17.0,Turkey Iraq Water,analyze,A_User,A:Initial information request,search for rivers in turkey and Iraq,,1,14 - 17 June - 1pm - Synchronized Clip.txt
+00:17.2,00:18.1,Turkey Iraq Water,analyze,B_Receiver,B:Asks to repeat,Rivers,,2,14 - 17 June - 1pm - Synchronized Clip.txt
+00:18.4,00:25.6,Turkey Iraq Water,analyze,A_User,A:Query repeat,rivers in turkey and Iraq so that is R I V E R S,,3,14 - 17 June - 1pm - Synchronized Clip.txt
+10:08.1,10:11.0,"What river runs through Rome, Italy?",remember,A_User,A:Initial information request,the first search is rivers in rome,,1,14 - 17 June - 1pm - Synchronized Clip.txt
+10:12.1,10:15.0,"What river runs through Rome, Italy?",remember,B_Receiver,B:Query refinement offer,yep... do you want the names of the rivers,,2,14 - 17 June - 1pm - Synchronized Clip.txt
+10:15.2,10:19.5,"What river runs through Rome, Italy?",remember,A_User,A:Intent clarification,No just... just do a search on the rivers in rome,,3,14 - 17 June - 1pm - Synchronized Clip.txt
+14:56.5,15:09.9,Marine Vegetation,understand,A_User,A:Initial information request,Ok uhm... in this case I want you to put an end between each word... and they are health... algae... A G... I am sorry A L G A E,,1,14 - 17 June - 1pm - Synchronized Clip.txt
+15:11.1,15:14.5,Marine Vegetation,understand,B_Receiver,B:Asks to repeat,I am in a deadlock can you,,2,14 - 17 June - 1pm - Synchronized Clip.txt
+15:14.7,15:32.1,Marine Vegetation,understand,A_User,A:Query embellishment,sure it's health and algae A L G A E and seaweed and kelp,,3,14 - 17 June - 1pm - Synchronized Clip.txt
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,A:Confirms,,,,
+,,,,,A:Intent clarification,,,,
+,,,,,A:Query embellishment,,,,
+,,,,,A:Query repeat,,,,
+,,,,,A:Information request within SERP,,,,
+,,,,,B:Asks to repeat,,,,
+,,,,,B:Confirms,,,,
+,,,,,B:Query refinement offer,,,,
+,,,,,B:Scanning document theme,,,,
+,,,,,B:SERP with modification,,,,
+,,,,,B:SERP with modification + Suggestion,,,,
+,,,,,B:SERP without modification,,,,
