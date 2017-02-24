@@ -14,8 +14,8 @@ These transcripts were authored in 2016 collectively by:
 
 ## Provided files
 We provide all the releasable data in different files:
- * Transcripts
- * Backstories
+ * Transcripts (ConversationalSearchDataSet.csv)
+ * Backstories (backstories_ConversationalSearchDataSet.csv)
  * Code book
 
 
