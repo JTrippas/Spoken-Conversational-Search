@@ -1,6 +1,6 @@
 # [Spoken Conversation Search](http://jtrippas.github.io/spoken-conversational-search/)
 
-This repository contains the dataset created by observing participants solve information needs of different complexity
+This repository contains the dataset created by observing participants addressing information needs of different complexity.
 
 
 # Overview
