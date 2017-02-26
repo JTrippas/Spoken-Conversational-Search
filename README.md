@@ -16,7 +16,7 @@ These transcripts were authored in 2016 collectively by:
 We provide all the releasable data in different files:
  * Transcripts (ConversationalSearchDataSet.csv)
  * Backstories (backstories_ConversationalSearchDataSet.csv)
- * Code book
+ * Code book (CodeBook_CHIIR.pdf)
 
 
 ## Transcript file structure
