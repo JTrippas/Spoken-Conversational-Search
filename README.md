@@ -5,7 +5,7 @@ This repository contains the dataset created by observing participants addressin
 
 # Overview
 
-The file ConversationalSearchDataSet.csv contains a set of 115 transcribed conversations to solve information needs based on backstories.
+The file ConversationalSearchDataSet.csv contains a set of 101 transcribed conversations to solve information needs based on backstories.
 
 The collection and transcription process is described in Trippas, Spina, Cavedon, and Sanderson (2017), along with an initial analysis.
 
@@ -68,7 +68,7 @@ We present preliminary findings from a study of mixed initiative conversational 
 
 
 
-#   Acknowledgment
+#   Acknowledgments
 
 This research is partially supported by Australian Research Council Project LP130100563 and Real Thing Entertainment Pty Ltd.
 The setup and data release was reviewed and approved by RMIT University’s Ethics Board (ASEHAPP 08-16).
