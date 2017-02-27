@@ -1,15 +1,33 @@
 # [Spoken Conversation Search](http://jtrippas.github.io/spoken-conversational-search/)
 
-This repository contains the dataset created by observing participants addressing information needs of different complexity.
+This repository contains the dataset created by observing participants addressing information needs of different complexity in an accoustic setting.
 
 
 # Overview
 
 The file ConversationalSearchDataSet.csv contains a set of 115 transcribed conversations to solve information needs based on backstories.
 
-These transcripts were authored in 2016 collectively by:
+The collection and transcription process is described in Trippas, Spina, Cavedon, and Sanderson (2017), along with an initial analysis.
 
-**Johanne R. Trippas, Damiano Spina, Lawrence Cavedon, and Mark Sanderson**
+
+## Citation
+
+Please cite the article below if you use this resource in your research:
+
+[How Do People Interact in Conversational Speech-Only Search Tasks: A Preliminary Analysis](http://www.johannetrippas.com/papers/Trippas%20et%20al-CHIIR2017.pdf) <br>
+Johanne R. Trippas, Damiano Spina, Lawrence Cavedon, and Mark Sanderson <br>
+The ACM SIGIR Conference on Human Information Interaction and Retrieval (CHIIR), Oslo, Norway, 2017. (to appear) 
+
+## BibTex
+```
+@inproceedings{trippas2016how,
+  title={How Do People Interact in Conversational Speech-Only Search Tasks: A Preliminary Analysis},
+  author={Trippas, Johanne R and Spina, Damiano and Cavedon, Lawrence and Sanderson, Mark},
+  booktitle={Proceedings of the 2017 ACM on Conference on Human Information Interaction and Retrieval (CHIIR)},
+  year={2017},
+  organization={ACM}
+}
+```
 
 
 ## Provided files
@@ -26,7 +44,7 @@ The file contains 10 columns:
 1. **Start time**: Start time of the utterance.
 2. **Stop time**: Stop time of the utterance.
 3. **Query**: The reference to the information need participants are solving.
-4. **Query complexity**: One of three leverls, referencing the task complexiy type (remember, understand, and analyze).
+4. **Query complexity**: One of three levels, referencing the task complexiy type (remember, understand, and analyze).
 5. **Role**: Which of the participants is talking in that particular utterance. The roles are annotated as A_User (participant who has the information need which needs to be solved) and B_Receiver (person who has access the the computer and search engine).
 6. **Action**: The action the participant takes in that utterance, these actions are described in the code book and allow for reproduction of the results.
 7. **Transcript**: Transcript of the utterance of the particular user in that particular times lot.
@@ -48,30 +66,12 @@ The resleased data is of a prelimiary analysis of a spoken conversational search
 
 We present preliminary findings from a study of mixed initiative conversational behaviour for informational search in an acoustic setting. The aim of the observational study is to reveal insights into how users would conduct searches over voice where a screen is absent but where users are able to converse interactively with the search system. We conducted a laboratory-based observational study of 13 pairs of participants each completing three search tasks with different cognitive complexity levels. The communication between the pairs was analyzed for interaction patterns used in the search process. This setup mimics the situation of a user interacting with a search system via a speech-only interface.
 
-# Citation
-
-Please cite the article below if you use this resource in your research:
-
-[How Do People Interact in Conversational Speech-Only Search Tasks: A Preliminary Analysis](http://www.johannetrippas.com/papers/Trippas%20et%20al-CHIIR2017.pdf) <br>
-Johanne R. Trippas, Damiano Spina, Lawrence Cavedon, and Mark Sanderson <br>
-The ACM SIGIR Conference on Human Information Interaction and Retrieval (CHIIR), Oslo, Norway, 2017. (to appear) 
-
-## BibTex
-```
-@inproceedings{trippas2016how,
-  title={How Do People Interact in Conversational Speech-Only Search Tasks: A Preliminary Analysis},
-  author={Trippas, Johanne R and Spina, Damiano and Cavedon, Lawrence and Sanderson, Mark},
-  booktitle={Proceedings of the 2017 ACM on Conference on Human Information Interaction and Retrieval (CHIIR)},
-  year={2017},
-  organization={ACM}
-}
-```
-
 
 
 #   Acknowledgment
 
 This research is partially supported by Australian Research Council Project LP130100563 and Real Thing Entertainment Pty Ltd.
+The setup and data release was reviewed and approved by RMIT University’s Ethics Board (ASEHAPP 08-16).
 
 The authors were employed by RMIT University when these transcripts were created.
 
