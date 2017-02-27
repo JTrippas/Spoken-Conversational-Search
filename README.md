@@ -71,15 +71,14 @@ We present preliminary findings from a study of mixed initiative conversational 
 #   Acknowledgments
 
 This research is partially supported by Australian Research Council Project LP130100563 and Real Thing Entertainment Pty Ltd.
-The setup and data release was reviewed and approved by RMIT University’s Ethics Board (ASEHAPP 08-16).
+The data collection and release was reviewed and approved by RMIT University’s Ethics Board (ASEHAPP 08-16).
 
 The authors were employed by RMIT University when these transcripts were created.
 
 
+# Further Information
 
-
-
-For more information, please contact [Johanne Trippas](http://www.johannetrippas.com/)
+For further information and resources, please visit [Spoken Conversational Search at RMIT Unversity (RMIT Information Storage, Analysis and Retrieval (ISAR))] (http://www.rmit-ir.org/index.php/research-grants/spoken-conversational-search/) or contact [Johanne Trippas](http://www.johannetrippas.com/).
 
 <!--- -->
 
