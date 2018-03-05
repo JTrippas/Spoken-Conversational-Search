@@ -12,20 +12,40 @@ The collection and transcription process is described in Trippas, Spina, Cavedon
 
 ## Citation
 
-Please cite the article below if you use this resource in your research:
+Please cite the articles below if you use this resource in your research:
 
-[How Do People Interact in Conversational Speech-Only Search Tasks: A Preliminary Analysis](http://www.johannetrippas.com/papers/Trippas%20et%20al-CHIIR2017.pdf) <br>
-Johanne R. Trippas, Damiano Spina, Lawrence Cavedon, and Mark Sanderson <br>
-The ACM SIGIR Conference on Human Information Interaction and Retrieval (CHIIR), Oslo, Norway, 2017. (to appear) 
+[How do people interact in conversational speech-only search tasks: A preliminary analysis.](http://www.johannetrippas.com/papers/Trippas%20et%20al-CHIIR2017.pdf) <br>
+Trippas, Johanne R., Damiano Spina, Lawrence Cavedon, and Mark Sanderson. <br>
+In Proceedings of the 2017 Conference on Conference Human Information Interaction and Retrieval, pp. 325-328. ACM, 2017.
+
+[A conversational search transcription protocol and analysis.](http://www.johannetrippas.com/papers/Trippas%20et%20al-CAIR2017-protocol.pdf)
+<br>
+Trippas, Johanne R., Damiano Spina, Lawrence Cavedon, and Mark Sanderson. <br>
+In Proc of SIGIR 1st International Workshop on Conversational Approaches to Information Retrieval (CAIR’17), CAIR. 2017.
 
 ## BibTex
 ```
-@inproceedings{trippas2016how,
-  title={How Do People Interact in Conversational Speech-Only Search Tasks: A Preliminary Analysis},
+@inproceedings{Trippas:2017:PIC:3020165.3022144,
+ author = {Trippas, Johanne R. and Spina, Damiano and Cavedon, Lawrence and Sanderson, Mark},
+ title = {How Do People Interact in Conversational Speech-Only Search Tasks: A Preliminary Analysis},
+ booktitle = {Proceedings of the 2017 Conference on Conference Human Information Interaction and Retrieval},
+ series = {CHIIR '17},
+ year = {2017},
+ location = {Oslo, Norway},
+ pages = {325--328},
+ numpages = {4},
+ doi = {10.1145/3020165.3022144},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {empirical study, interaction themes, observational study, response generating, speech-only communication channel, spoken conversational search, thematic analysis, voice search}
+} 
+
+
+@inproceedings{trippas2017conversational,
+  title={A conversational search transcription protocol and analysis},
   author={Trippas, Johanne R and Spina, Damiano and Cavedon, Lawrence and Sanderson, Mark},
-  booktitle={Proceedings of the 2017 ACM on Conference on Human Information Interaction and Retrieval (CHIIR)},
-  year={2017},
-  organization={ACM}
+  booktitle={Proc of SIGIR 1st International Workshop on Conversational Approaches to Information Retrieval (CAIR’17), CAIR},
+  year={2017}
 }
 ```
 
@@ -60,7 +80,10 @@ Further information about the selected backstories can be found in [Moffat, Bail
  
 ## Preliminary Analysis
 
-The resleased data is of a prelimiary analysis of a spoken conversational search experimental setup. Please note that coding the data set is an iterative process and therefore has changed for consecutive analysis. We are planning on releasing the full data set and with updated code book once this is finalized.
+The resleased data is of a prelimiary analysis of a spoken conversational search experimental setup. Please note that coding the data set is an iterative process and therefore has changed for consecutive analysis. We are planning on releasing the full data set and with updated code book once this is finalized. Observational findings are published in 
+[Informing the Design of Spoken Conversational Search.](http://www.johannetrippas.com/papers/Trippas_CHIIR_2018.pdf) <br>
+Trippas, Johanne R., Damiano Spina, Lawrence Cavedon, Hideo Joho, and Mark Sanderson. <br>
+In Proceedings of the 2017 Conference on Conference Human Information Interaction and Retrieval, 2018. (to appear)
 
 # Abstract
 
