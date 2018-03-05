@@ -7,21 +7,22 @@ This repository contains the dataset created by observing participants addressin
 
 The file ConversationalSearchDataSet.csv contains a set of 101 transcribed conversations to solve information needs based on backstories.
 
-The collection and transcription process is described in Trippas, Spina, Cavedon, and Sanderson (2017), along with an initial analysis.
+The collection and transcription process is described in Trippas, Spina, Cavedon, and Sanderson (2017a) and Trippas, Spina, Cavedon, and Sanderson (2017b), along with an initial analysis.
+Further analysis of the transcriptions and observations are published in Trippas, Spina, Cavedon, Joho, and Sanderson (2018).
 
 
 ## Citation
 
 Please cite the articles below if you use this resource in your research:
 
-[How do people interact in conversational speech-only search tasks: A preliminary analysis.](http://www.johannetrippas.com/papers/Trippas%20et%20al-CHIIR2017.pdf) <br>
+-[How do people interact in conversational speech-only search tasks: A preliminary analysis.](http://www.johannetrippas.com/papers/Trippas%20et%20al-CHIIR2017.pdf) <br>
 Trippas, Johanne R., Damiano Spina, Lawrence Cavedon, and Mark Sanderson. <br>
-In Proceedings of the 2017 Conference on Conference Human Information Interaction and Retrieval, pp. 325-328. ACM, 2017.
+In Proceedings of the 2017 Conference on Conference Human Information Interaction and Retrieval (CHIIR'17), pp. 325-328. ACM, 2017a.
 
-[A conversational search transcription protocol and analysis.](http://www.johannetrippas.com/papers/Trippas%20et%20al-CAIR2017-protocol.pdf)
+-[A conversational search transcription protocol and analysis.](http://www.johannetrippas.com/papers/Trippas%20et%20al-CAIR2017-protocol.pdf)
 <br>
 Trippas, Johanne R., Damiano Spina, Lawrence Cavedon, and Mark Sanderson. <br>
-In Proc of SIGIR 1st International Workshop on Conversational Approaches to Information Retrieval (CAIR’17), CAIR. 2017.
+In Proceedings of SIGIR 1st International Workshop on Conversational Approaches to Information Retrieval (CAIR’17), CAIR. 2017b.
 
 ## BibTex
 ```
@@ -44,7 +45,7 @@ In Proc of SIGIR 1st International Workshop on Conversational Approaches to Info
 @inproceedings{trippas2017conversational,
   title={A conversational search transcription protocol and analysis},
   author={Trippas, Johanne R and Spina, Damiano and Cavedon, Lawrence and Sanderson, Mark},
-  booktitle={Proc of SIGIR 1st International Workshop on Conversational Approaches to Information Retrieval (CAIR’17), CAIR},
+  booktitle={Proceedings of SIGIR 1st International Workshop on Conversational Approaches to Information Retrieval (CAIR’17), CAIR},
   year={2017}
 }
 ```
@@ -80,10 +81,10 @@ Further information about the selected backstories can be found in [Moffat, Bail
  
 ## Preliminary Analysis
 
-The resleased data is of a prelimiary analysis of a spoken conversational search experimental setup. Please note that coding the data set is an iterative process and therefore has changed for consecutive analysis. We are planning on releasing the full data set and with updated code book once this is finalized. Observational findings are published in 
+The resleased data is of a prelimiary analysis of a spoken conversational search experimental setup. Please note that coding the data set is an iterative process and therefore has changed for consecutive analysis. We are planning on releasing the full data set and with updated code book once this is finalized. Observational findings are published in <br> 
 [Informing the Design of Spoken Conversational Search.](http://www.johannetrippas.com/papers/Trippas_CHIIR_2018.pdf) <br>
 Trippas, Johanne R., Damiano Spina, Lawrence Cavedon, Hideo Joho, and Mark Sanderson. <br>
-In Proceedings of the 2017 Conference on Conference Human Information Interaction and Retrieval, 2018. (to appear)
+In Proceedings of the 2017 Conference on Conference Human Information Interaction and Retrieval (CHIIR'18), 2018. (to appear)
 
 # Abstract
 
