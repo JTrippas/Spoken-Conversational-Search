@@ -4,7 +4,7 @@ This repository contains the dataset created by observing participants addressin
 
 
 # Overview
-**Update**: the SCSdataset.csv is the full dataset used in Trippas, Spina, Cavedon, Joho, and Sanderson (2018). The SCSdataset now contains all utterances and has the same format, but does not include "notes", as the ConversationalSearchDataSet.csv.
+**Updated January 2019**: the SCSdataset.csv is the full dataset used in Trippas, Spina, Cavedon, Joho, and Sanderson (2018). The SCSdataset now contains all utterances and has the same format, but does not include "notes", as the ConversationalSearchDataSet.csv.
 
 The file ConversationalSearchDataSet.csv contains a set of 101 transcribed conversations to solve information needs based on backstories in Trippas, Spina, Cavedon, and Sanderson (2017a).
 
@@ -88,7 +88,7 @@ The file contains 10 columns:
 5. **Role**: Which of the participants is talking in that particular utterance. The roles are annotated as A_User (participant who has the information need which needs to be solved) and B_Receiver (person who has access the the computer and search engine).
 6. **Action**: The action the participant takes in that utterance, these actions are described in the code book and allow for reproduction of the results.
 7. **Transcript**: Transcripts of the utterance of the particular user in that particular times lot.
-8. **Notes**: Comments such as the particular search is stopped by the user or researcher or extra notes which relate to the action of the participant regarding the search session. *not included in the "SCSdataset.csv" 
+8. **Notes**: Comments such as the particular search is stopped by the user or researcher or extra notes which relate to the action of the participant regarding the search session. *not included in the "SCSdataset.csv"
 9. **Query counter**: A counter which keeps track of how many turns there have been between the participants in that conversation. For the initial data release only the first two turns are given. However, the first three turns are presented if the second turn is classified under the _Meta-communcation Theme_ (See CHIIR 2017 paper for further information).
 10. **File name**: Indicating the group number (2-14) and the date of the experiment.
 
