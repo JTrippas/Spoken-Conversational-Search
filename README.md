@@ -72,9 +72,9 @@ In Proceedings of SIGIR 1st International Workshop on Conversational Approaches 
 
 ## Provided files
 We provide all the releasable data in different files:
- * Transcripts (ConversationalSearchDataSet.csv) and (SCSdataset.csv)
- * Backstories (backstories_ConversationalSearchDataSet.csv)
- * Code book (CodeBook_CHIIR.pdf)
+ * Transcripts [(ConversationalSearchDataSet.csv)](https://github.com/JTrippas/Spoken-Conversational-Search/blob/master/ConversationalSearchDataSet.csv) and [(SCSdataset.csv)](https://github.com/JTrippas/Spoken-Conversational-Search/blob/master/SCSdataset.csv)
+ * Backstories [(backstories_ConversationalSearchDataSet.csv)](https://github.com/JTrippas/Spoken-Conversational-Search/blob/master/backstories_ConversationalSearchDataSet.csv)
+ * Code book [(CodeBook_CHIIR.pdf)](https://github.com/JTrippas/Spoken-Conversational-Search/blob/master/CodeBook_CHIIR.pdf)
 
 
 ## Transcript file structure
@@ -94,12 +94,11 @@ The file contains 10 columns:
 
 ## Backstories file structure
 
-The file backstories_ConversationalSearchDataSet.csv contains a set of nine selected information needs or topic backstories for this Spoken Conversational Search study that were authored in 2014 collectively by: Peter Bailey, Alistair Moffat, Falk Scholer, Paul Thomas.
+The file backstories_ConversationalSearchDataSet.csv contains a set of nine selected information needs or topic backstories for this Spoken Conversational Search study that were authored in 2015 collectively by: Bailey, Moffat, Scholer, and Thomas.
 
-Further information about the selected backstories can be found in [Moffat, Bailey, Scholer, and Thomas (2014)](https://data.csiro.au/dap/landingpage?pid=csiro:14550&v=2&d=true).
+Further information about the selected backstories can be found in [Bailey, Moffat, Scholer, and Thomas (2015)](https://data.csiro.au/dap/landingpage?pid=csiro:14550&v=2&d=true).
 
 
-##
 
 ## Preliminary Analysis
 
