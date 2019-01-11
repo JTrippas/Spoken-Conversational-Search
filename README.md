@@ -1,4 +1,4 @@
-# [Spoken Conversation Search](http://jtrippas.github.io/spoken-conversational-search/)
+# [Spoken Conversation Search](http://jtrippas.github.io/Spoken-Conversational-Search/)
 
 This repository contains the dataset created by observing participants addressing information needs of different complexity in an acoustic setting.
 
@@ -102,10 +102,10 @@ Further information about the selected backstories can be found in [Bailey, Moff
 
 ## Preliminary Analysis
 
-The data in "ConversationalSearchDataSet.csv" is of a preliminary analysis of a spoken conversational search experimental setup. Please note that coding the data set is an iterative process and therefore has changed for consecutive analysis. We are planning on releasing the full data set and with updated code book once this is finalised. Observational findings are published in <br>
+The data in "ConversationalSearchDataSet.csv" is of a preliminary analysis of a spoken conversational search experimental setup. Observational findings are published in <br>
 [Informing the Design of Spoken Conversational Search.](http://www.johannetrippas.com/papers/Trippas_CHIIR_2018.pdf) <br>
 Trippas, Johanne R., Damiano Spina, Lawrence Cavedon, Hideo Joho, and Mark Sanderson. <br>
-In Proceedings of the 2017 Conference on Conference Human Information Interaction and Retrieval (CHIIR'18), 2018. (to appear)
+In Proceedings of the 2018 Conference on Conference Human Information Interaction and Retrieval (CHIIR'18), 2018.
 
 # Abstracts
 
