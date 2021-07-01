@@ -126,6 +126,6 @@ The authors were employed by RMIT University when these transcripts were created
 
 # Further Information
 
-For further information and resources, please visit [Spoken Conversational Search at RMIT University's Information Storage, Analysis and Retrieval (ISAR)](http://www.rmit-ir.org/index.php/research-grants/spoken-conversational-search) or contact [Johanne Trippas](http://www.johannetrippas.com/).
+For further information and resources, please visit [Spoken Conversational Search at RMIT University's Information Storage, Analysis and Retrieval (ISAR)](https://web.archive.org/web/20190826233259/http://www.rmit-ir.org/index.php/research-grants/spoken-conversational-search/) or contact [Johanne Trippas](http://www.johannetrippas.com/).
 
 <!--- -->
