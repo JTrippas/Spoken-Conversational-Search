@@ -5,7 +5,7 @@ This repository contains the dataset created by observing participants addressin
 
 # Overview
 
-**Updated August 2021**: the SCSdata_v1.csv is the full dataset used in Trippas, Spina, Thomas, Sanderson, Joho, and Cavedon (2020). The _SCSdata_ has been updated with completed data. 
+**Updated August 2021**: the [SCSdata_v1.csv](https://github.com/JTrippas/Spoken-Conversational-Search/blob/master/SCSdata_v1.csv) is the full dataset used in Trippas, Spina, Thomas, Sanderson, Joho, and Cavedon (2020). The _SCSdata_ has been updated with completed data.
 
 **Updated January 2019**: the SCSdataset.csv is the full dataset used in Trippas, Spina, Cavedon, Joho, and Sanderson (2018). The SCSdataset now contains all utterances and has the same format, but does not include "notes", as the ConversationalSearchDataSet.csv.
 
@@ -90,12 +90,12 @@ pages = {1--19}
 ## Provided files
 We provide all the releasable data in different files:
 
- * (**Updated August 2021**) Transcripts and codes as described in [Trippas et al. (2020)](https://www.sciencedirect.com/science/article/pii/S030645731930425X): SCSdata.csv
+ * (**Updated August 2021**) Transcripts and codes as described in [Trippas et al. (2020)](https://www.sciencedirect.com/science/article/pii/S030645731930425X): [SCSdata_v1.csv](https://github.com/JTrippas/Spoken-Conversational-Search/blob/master/SCSdata_v1.csv)
  * Transcripts [(ConversationalSearchDataSet.csv)](https://github.com/JTrippas/Spoken-Conversational-Search/blob/master/ConversationalSearchDataSet.csv) and [(SCSdataset.csv)](https://github.com/JTrippas/Spoken-Conversational-Search/blob/master/SCSdataset.csv)
  * Backstories [(backstories_ConversationalSearchDataSet.csv)](https://github.com/JTrippas/Spoken-Conversational-Search/blob/master/backstories_ConversationalSearchDataSet.csv)
  * Code book [(CodeBook_CHIIR.pdf)](https://github.com/JTrippas/Spoken-Conversational-Search/blob/master/CodeBook_CHIIR.pdf)
 
-## SCSdata_v1 file structure (**Updated August 2021**)
+## [SCSdata_v1.csv](https://github.com/JTrippas/Spoken-Conversational-Search/blob/master/SCSdata_v1.csv) file structure (**Updated August 2021**)
 The file contains 10 columns:
 1. **Start_time**: Start time of the utterance.
 2. **Stop_time**: Stop time of the utterance.
@@ -160,5 +160,7 @@ The authors were employed by RMIT University when these transcripts were created
 # Further Information
 
 For further information and resources, please visit [Spoken Conversational Search at RMIT University's Information Storage, Analysis and Retrieval (ISAR)](http://www.rmit-ir.org/index.php/research-grants/spoken-conversational-search) or contact [Johanne Trippas](http://www.johannetrippas.com/).
+
+You are free to share (copy and redistribute the material in any medium or format) and adapt (remix, transform, and build upon the material) the data under the [CC BY-NC 3.0 licence](https://creativecommons.org/licenses/by-nc/3.0/).
 
 <!--- -->
