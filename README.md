@@ -4,6 +4,9 @@ This repository contains the dataset created by observing participants addressin
 
 
 # Overview
+
+**Updated August 2021**: the SCSdata_v1.csv is the full dataset used in Trippas, Spina, Thomas, Sanderson, Joho, and Cavedon (2020). The _SCSdata_ has been updated with completed data. 
+
 **Updated January 2019**: the SCSdataset.csv is the full dataset used in Trippas, Spina, Cavedon, Joho, and Sanderson (2018). The SCSdataset now contains all utterances and has the same format, but does not include "notes", as the ConversationalSearchDataSet.csv.
 
 The file ConversationalSearchDataSet.csv contains a set of 101 transcribed conversations to solve information needs based on backstories in Trippas, Spina, Cavedon, and Sanderson (2017a).
@@ -16,6 +19,9 @@ Further analysis of the transcriptions and observations are published in Trippas
 
 Please cite the articles below if you use this resource in your research:
 
+-[Towards a Model for Spoken Conversational Search.](https://www.sciencedirect.com/science/article/pii/S030645731930425X) <br> Johanne R. Trippas, Damiano Spina, Paul Thomas, Mark Sanderson, Hideo Joho, and Lawrence Cavedon. <br>
+Towards a model for spoken conversational search.Information Processing & Management, 57(2):1–19, 2020
+ 
 -[Informing the Design of Spoken Conversational Search: Perspective Paper.](http://www.johannetrippas.com/papers/Trippas_CHIIR_2018.pdf) <br> Johanne R. Trippas, Damiano Spina, Lawrence Cavedon, Hideo Joho, and Mark Sanderson. <br>
 In Proceedings of the 2018 Conference on Human Information Interaction & Retrieval (CHIIR '18). pp. 32-41. ACM, 2018.
 
@@ -30,6 +36,19 @@ In Proceedings of SIGIR 1st International Workshop on Conversational Approaches 
 
 ## BibTex
 ```
+@article{trippas2020towards,
+author = {Johanne R. Trippas and Damiano Spina and Paul Thomas and Hideo Joho and Sanderson, Mark and Cavedon, Lawrence},
+title = {Towards a Model for Spoken Conversational Search},
+journal = {Information Processing \& Management},
+year = {2020},
+volume = {57},
+number = {2},
+issn = {0306-4573},
+url = {https://doi.org/10.1016/j.ipm.2019.102162},
+doi = {10.1016/j.ipm.2019.102162},
+pages = {1--19}
+ }
+
 @inproceedings{trippas2018informing,
  author = {Trippas, Johanne R. and Spina, Damiano and Cavedon, Lawrence and Joho, Hideo and Sanderson, Mark},
  title = {Informing the Design of Spoken Conversational Search: Perspective Paper},
@@ -56,10 +75,8 @@ In Proceedings of SIGIR 1st International Workshop on Conversational Approaches 
  numpages = {4},
  doi = {10.1145/3020165.3022144},
  publisher = {ACM},
- address = {New York, NY, USA},
- keywords = {empirical study, interaction themes, observational study, response generating, speech-only communication channel, spoken conversational search, thematic analysis, voice search}
+ address = {New York, NY, USA}
 }
-
 
 @inproceedings{trippas2017conversational,
   title={A conversational search transcription protocol and analysis},
@@ -72,9 +89,25 @@ In Proceedings of SIGIR 1st International Workshop on Conversational Approaches 
 
 ## Provided files
 We provide all the releasable data in different files:
+
+ * (**Updated August 2021**) Transcripts and codes as described in [Trippas et al. (2020)](https://www.sciencedirect.com/science/article/pii/S030645731930425X): SCSdata.csv
  * Transcripts [(ConversationalSearchDataSet.csv)](https://github.com/JTrippas/Spoken-Conversational-Search/blob/master/ConversationalSearchDataSet.csv) and [(SCSdataset.csv)](https://github.com/JTrippas/Spoken-Conversational-Search/blob/master/SCSdataset.csv)
  * Backstories [(backstories_ConversationalSearchDataSet.csv)](https://github.com/JTrippas/Spoken-Conversational-Search/blob/master/backstories_ConversationalSearchDataSet.csv)
  * Code book [(CodeBook_CHIIR.pdf)](https://github.com/JTrippas/Spoken-Conversational-Search/blob/master/CodeBook_CHIIR.pdf)
+
+## SCSdata_v1 file structure (**Updated August 2021**)
+The file contains 10 columns:
+1. **Start_time**: Start time of the utterance.
+2. **Stop_time**: Stop time of the utterance.
+3. **Query**: The reference to the information need participants are solving.
+4. **Query_complexity**: One of three levels, referencing the task complexity type (remember, understand, and analyse).
+5. **Role**: Which of the participants is talking in that particular utterance. The roles are annotated as Seeker (participant who has the information need which needs to be solved) and Intermediary (person who has access the the computer and search engine).
+6. **Sub_themes**: Subthemes based on codes as described in [Trippas et al. (2020)](https://www.sciencedirect.com/science/article/pii/S030645731930425X)
+7. **Code**: The action the participant takes in that utterance, these actions are described in [Trippas et al. (2020)](https://www.sciencedirect.com/science/article/pii/S030645731930425X)
+8. **Query_counter**: A counter which keeps track of how many turns there have been between the participants in that conversation.
+9. **Transcription**: Transcripts of the utterance of the particular user in that particular timeslot.
+10. **Actor_pair**: 13 different pairs completed three tasks. This column distinguishes the different pairs for each task (1-13)
+
 
 
 ## Transcript file structure
